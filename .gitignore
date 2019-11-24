@@ -5,6 +5,7 @@ hazutrendui.py
 hazutrend2.py
 hazutrendui2.py
 main.py
+.idea
 .vscode
 __pycache__/
 *.py[cod]
